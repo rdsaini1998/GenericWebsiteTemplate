@@ -21,7 +21,7 @@ html,body{
 }
 .main-nav{
     list-style: none;
-    font-size:0.7em;
+    font-size:0.75em;
     display:flex;
     margin:0;
 }
